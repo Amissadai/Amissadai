@@ -12,7 +12,7 @@ I'm passionate aboute solving problems and learning. Always open to new challeng
 
 Reach me out :point_down:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amissadai%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amissadai-ferreira/)](https://www.linkedin.com/in/amissadai-ferreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Amissadai%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amissadai-ferreira-120249191/)](https://www.linkedin.com/in/amissadai-ferreira-120249191/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-amissadaiferreira@gmail.com-cc6633?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amissadaiferreira@gmail.com)](mailto:amissadaiferreira@gmail.com)
 
