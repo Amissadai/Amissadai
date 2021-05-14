@@ -7,7 +7,7 @@ I'm passionate aboute solving problems and learning. Always open to new challeng
 
 #### :earth_americas: "Quanto mais eu sei, mais eu sou " :pencil2:
 
--:round_pushpin: From PA living in Manaus \\
+-:round_pushpin: From PA living in Manaus <br>
 -:boy: Data Science Student
 
 Reach me out :point_down:
