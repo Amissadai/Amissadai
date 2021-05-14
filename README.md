@@ -1,3 +1,18 @@
+[![author](https://img.shields.io/badge/author-Amissadaiferreira-black.svg)](https://www.kaggle.com/amissadaiferreira) 
+[![GPLv3 license](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Amissadai/Projetos)
+
+```python
+import data
+
+class FutureDataScientist:
+  def __init__(self, learnings):
+    self.development(learnings)
+  
+be.inspired()
+find.insights()
+```
+
 # Hey 
 My name is Amissadai Ferreira Pinheiro.:boy:
 
